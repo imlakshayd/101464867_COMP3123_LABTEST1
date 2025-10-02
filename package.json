@@ -1,0 +1,17 @@
+{
+  "name": "101464867_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "Lab Test 1 for COMP3123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "q1": "node question-1/lowerCaseWords.js",
+    "q2": "node question-2/callbacks.js",
+    "q3:add": "node question-3/add.js",
+    "q3:remove": "node question-3/remove.js",
+    "start": "echo \"Use 'npm run q1', 'npm run q2', etc. to run specific scripts.\""
+  },
+  "keywords": [],
+  "author": "Lakshay Dhawan - 101464867",
+  "license": "ISC"
+}
